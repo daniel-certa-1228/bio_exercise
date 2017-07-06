@@ -1,0 +1,26 @@
+/*=============================
+	Global Styles
+=============================*/
+
+/*=============================
+	Element Styles
+=============================*/
+body {
+	background-color: #dee8f7;
+	font-family: sans-serif;
+}
+
+/*=============================
+	Class Styles
+=============================*/
+
+.nav-ul {
+	list-style: none;
+	padding: 0;
+}
+
+.nav-ul li {
+  display: inline-block;
+  margin-right:10px;
+  text-decoration: none;
+}
