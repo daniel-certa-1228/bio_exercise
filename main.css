@@ -17,6 +17,11 @@ footer {
 
 h1 {
 	margin: auto;
+	text-decoration: underline;
+}
+
+h4 {
+	margin: 0;
 }
 
 a {
@@ -26,6 +31,10 @@ a {
 
 a:visited {
 	color: #038206;
+}
+
+a:hover {
+	color: #03af06;
 }
 
 /*=============================
@@ -46,3 +55,12 @@ a:visited {
   margin-right:10px;
   text-decoration: none;
 }
+
+.contact-article {
+	font-size: 1.3em
+}
+
+.contact-details {
+	margin-top: .5em;
+}
+
